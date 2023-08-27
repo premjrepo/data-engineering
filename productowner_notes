@@ -1,0 +1,62 @@
+Role of a Technical Product Manager (Tech PM) / Product Owner (PO) in Agile Development
+
+In an Agile development environment, the Tech PM or PO plays a pivotal role in guiding the development process from backlog refinement to implementation and beyond. They collaborate closely with the development team, stakeholders, and users to ensure the successful delivery of valuable software solutions. Here are the key responsibilities and practices for a Tech PM/PO:
+
+Backlog Refinement and Prioritization
+Backlog refinement involves continuously reviewing and enhancing the product backlog to ensure it is well-prepared for upcoming sprints. The Tech PM/PO is responsible for owning the backlog and keeping it organized and prioritized. This process includes:
+
+Prioritization: Maintaining a prioritized order of backlog items based on input from the Product Manager. This ensures that the development team always works on the most valuable features first.
+
+Story Preparation: Ensuring that stories are written in a clear "story voice" format, such as "As a user, I shall be able to..." and providing enough detail for the team to understand the requirements.
+
+Mockup Links: Including related mockup links within stories, especially for UI-related details, so that engineers can refer to them for design guidance.
+
+Sprint Ceremonies
+Sprint ceremonies are crucial Agile rituals that facilitate collaboration and progress tracking. The Tech PM/PO participates actively in these ceremonies:
+
+Standups: Attending daily standup meetings to answer team questions and provide guidance, if needed.
+
+Backlog Grooming: Owning and running backlog grooming sessions, ensuring that stories are refined, acceptance criteria are clear, and tasks are properly sized.
+
+Sprint Planning: Attending sprint planning meetings and clarifying any questions the team might have. While the team runs the session, the Tech PM/PO's presence is essential.
+
+Sprint Demo: Participating in sprint demo sessions to showcase the completed work to stakeholders and gather feedback.
+
+Implementation and Development
+During the implementation phase, the Tech PM/PO ensures smooth execution of development tasks:
+
+Tech Stories: Collaborating with tech leads to define and document technical stories. These may require exploration and research, leading to a clear understanding of the implementation approach.
+
+Tech Bugs: Collaborating with tech leads to address technical bugs and ensuring they are fixed before closure criteria are met.
+
+Acceptance Criteria: Collaborating with the team to refine and finalize acceptance criteria for stories, ensuring that they are met before closing stories.
+
+Best Practices and Guidelines
+The Tech PM/PO adheres to several best practices to ensure effective collaboration and successful project outcomes:
+
+Epic Association: All stories should be associated with an epic. No standalone stories without an epic.
+
+Labeling: Use labels to categorize stories, especially for tech-related or URS/SRS candidate stories.
+
+Rework Handling: If a story identified as URS/SRS needs rework, link the old and new stories via Jira and work with PDP engineers.
+
+UI Description: Describe UI-related elements generically, including mockup links for specific details. Ensure detailed requirements are captured but avoid over-specifying UI elements.
+
+Continuous Communication: Document decisions and discussions related to stories in the Jira comments section.
+
+Spikes and Refactoring
+Spikes and code refactoring are integral parts of development:
+
+Spikes: These are research-focused stories to explore new technologies or solutions. They involve investigation, challenges assessment, and feasibility determination. Acceptance criteria should include documentation and a POC demo to the PO.
+
+Refactoring: Addressing technical debt and improving code quality is essential. If a story has been closed and a bug is found due to new functionality, the priority is determined for fixing it in upcoming sprints.
+
+Scaling and Splitting Stories
+For efficient value creation, stories should be split into smaller, incremental pieces:
+
+Guidelines for Splitting Stories: Consider criteria such as workflow steps, business rule validations, complexity, data variations, and use case scenarios when splitting stories.
+
+Smaller Stories for Focus: Smaller stories enable focused development and quicker value delivery.
+
+Conclusion
+In the role of a Tech PM/PO, effective communication, collaboration, and adherence to Agile principles are paramount. This ensures the successful delivery of high-quality software that aligns with both business needs and user expectations.
